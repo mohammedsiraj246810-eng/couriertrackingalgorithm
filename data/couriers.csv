@@ -1,0 +1,6 @@
+trackingId,senderName,senderPhone,receiverName,receiverPhone,address,weightKg,priority,codAmount,status,currentLocation
+CT1001,Riya Sharma,9876543210,Amit Verma,9123456780,42 Green Street; Pune,2.5,NORMAL,0.0,BOOKED,Warehouse
+CT1002,Aakash Singh,9988776655,Priya Nair,9876512340,18 Park Avenue; Mumbai,1.2,EXPRESS,100.0,IN_TRANSIT,Mumbai Hub
+CT1003,Meera Patel,9123401234,Rahul Joshi,9812345670,12 Lakeside Road; Delhi,4.0,NORMAL,250.0,OUT_FOR_DELIVERY,Delhi Distribution
+CT1004,Sahil Reddy,9012345678,Nisha Gupta,9823456710,77 Flower Road; Bengaluru,3.8,EXPRESS,50.0,PICKED_UP,Bengaluru Pickup
+CT1005,Tanvi Joshi,9567123450,Vikram Rao,9998765432,29 Hillview Lane; Hyderabad,1.0,NORMAL,0.0,DELIVERED,Delivered

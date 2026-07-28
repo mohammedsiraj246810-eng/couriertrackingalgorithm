@@ -1,0 +1,31 @@
+|-- data
+    |-- couriers.csv
+|-- README.md
+|-- src
+    |-- com
+        |-- courier
+            |-- Main.java
+            |-- model
+                |-- Courier.java
+                |-- CourierStatus.java
+                |-- Priority.java
+            |-- persistence
+                |-- CourierRepository.java
+                |-- FileCourierRepository.java
+            |-- service
+                |-- CourierService.java
+            |-- ui
+                |-- BaseDialog.java
+                |-- BasePanel.java
+                |-- CourierTableModel.java
+                |-- MainFrame.java
+                |-- panels
+                    |-- AllRecordsPanel.java
+                    |-- BookingPanel.java
+                    |-- DashboardPanel.java
+                    |-- EditDialog.java
+                    |-- TrackingPanel.java
+                |-- StatusProgressPanel.java
+            |-- util
+                |-- IdGenerator.java
+                |-- InputValidator.java
